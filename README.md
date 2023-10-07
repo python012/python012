@@ -1,6 +1,5 @@
-- 👋 Hello, I like Python and Java
-- 👀 I’m also interested in JavaScript/TypeScript
-- 🌱 I’m trying to contribute PR on interesting and useful open source projects
+- 👋 Hello, I like TypeScript/Python/Java
+- 🌱 I would try to contribute PR on interesting and useful open source projects
 - 💞️ My job is to implement more and more automation testing
 
 <!---
