@@ -6,18 +6,12 @@ Hi! I'm a passionate Test Automation Engineer based in Wuhan, China. I specializ
 
 ## Featured Projects
 
-### NPM Packages
+### Published Packages
 
-| Package | Description | Downloads |
-|---------|-------------|-----------|
-| [tar-azure-cli](https://www.npmjs.com/package/tar-azure-cli) ![NPM version](https://img.shields.io/npm/v/tar-azure-cli) | CLI tool for publishing test results to Azure DevOps | [![NPM downloads](https://img.shields.io/npm/dw/tar-azure-cli)](https://www.npmjs.com/package/tar-azure-cli) |
-
-### PIP Packages
-
-| Package | Description | Downloads |
-|---------|-------------|-----------|
-| [PyVisionAuto](https://pypi.org/project/pyvisionauto/) ![PyPI version](https://img.shields.io/pypi/v/pyvisionauto) | Cross-platform desktop automation toolkit with visual image matching, mouse/keyboard control, and screen recording | [![PyPI downloads](https://img.shields.io/pypi/dm/pyvisionauto)](https://pypi.org/project/pyvisionauto/) |
-
+| Package | Type | Description | Downloads |
+|---------|------|-------------|-----------|
+| [tar-azure-cli](https://www.npmjs.com/package/tar-azure-cli) ![NPM version](https://img.shields.io/npm/v/tar-azure-cli) | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm) | CLI tool for publishing test results to Azure DevOps | [![NPM downloads](https://img.shields.io/npm/dw/tar-azure-cli)](https://www.npmjs.com/package/tar-azure-cli) |
+| [PyVisionAuto](https://pypi.org/project/pyvisionauto/) ![PyPI version](https://img.shields.io/pypi/v/pyvisionauto) | ![Python](https://img.shields.io/badge/PyPI-3776AB?style=flat&logo=python) | Cross-platform desktop automation toolkit with visual image matching, mouse/keyboard control, and screen recording | [![PyPI downloads](https://img.shields.io/pypi/dm/pyvisionauto)](https://pypi.org/project/pyvisionauto/) |
 
 ### GitHub Repositories
 
