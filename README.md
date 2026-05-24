@@ -26,13 +26,6 @@ Hi! I'm a passionate Test Automation Engineer based in Wuhan, China. I specializ
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python012&theme=nord_bright" alt="Profile Summary"/>
-</div>
-
----
 
 ## Tech Stack
 
