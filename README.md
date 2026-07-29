@@ -12,6 +12,7 @@ Hi! I'm a passionate Test Automation Engineer based in Wuhan, China. I specializ
 |---------|-------------|-----------|
 | [tar-azure-cli](https://www.npmjs.com/package/tar-azure-cli) ![NPM version](https://img.shields.io/npm/v/tar-azure-cli) | CLI tool for publishing test results to Azure DevOps | [![NPM downloads](https://img.shields.io/npm/dw/tar-azure-cli)](https://www.npmjs.com/package/tar-azure-cli) |
 | [PyVisionAuto](https://pypi.org/project/pyvisionauto/) ![PyPI version](https://img.shields.io/pypi/v/pyvisionauto) | Cross-platform desktop automation toolkit with visual image matching, mouse/keyboard control, and screen recording | [![PyPI downloads](https://img.shields.io/pypi/dm/pyvisionauto)](https://pypi.org/project/pyvisionauto/) |
+| [vision-auto](https://www.npmjs.com/package/vision-auto) ![NPM version](https://img.shields.io/npm/v/vision-auto)       | Desktop automation toolkit for image-based UI interaction and input control                                        | [![NPM downloads](https://img.shields.io/npm/dw/vision-auto)](https://www.npmjs.com/package/vision-auto)     |
 
 ### GitHub Repositories
 
