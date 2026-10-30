@@ -6,6 +6,12 @@ Hi! I'm a passionate Test Automation Engineer based in Wuhan, China. I specializ
 
 ## Featured Projects
 
+### Agent Skills
+
+**[html-artifact-builder](https://github.com/python012/html-artifact-builder)** — an agent skill that generates single-file, self-contained HTML with React + shadcn/ui. No server, nothing fetched from the network, just double-click to open.
+
+[![skills.sh](https://skills.sh/b/python012/html-artifact-builder)](https://skills.sh/python012/html-artifact-builder) · [Live demo](https://python012.github.io/html-artifact-builder/samples/sample-doc-en.html) · [中文示例](https://python012.github.io/html-artifact-builder/samples/sample-doc.html) · [Install](https://github.com/python012/html-artifact-builder#install)
+
 ### Published Packages
 
 | Package | Description | Downloads |
@@ -18,6 +24,7 @@ Hi! I'm a passionate Test Automation Engineer based in Wuhan, China. I specializ
 
 | Repository | Description |
 |------------|-------------|
+| [html-artifact-builder](https://github.com/python012/html-artifact-builder) | Agent skill that generates single-file, self-contained HTML with React + shadcn/ui |
 | [learn-agent-from-claude-code](https://github.com/python012/learn-agent-from-claude-code) | Learn AI Agent development from Claude Code source |
 | [Minimal-RAG](https://github.com/python012/Minimal-RAG) | Minimal RAG application (Python) |
 | [Minimal-RAG-for-PDF](https://github.com/python012/Minimal-RAG-for-PDF) | RAG for PDF processing |
