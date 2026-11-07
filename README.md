@@ -14,7 +14,11 @@ Hi! I'm a passionate Test Automation Engineer based in Wuhan, China. I specializ
 
 ### Web Tools
 
-**[hanzi-big](https://github.com/python012/hanzi-big)** — an offline Chinese character card for kids: type a character and it fills the screen in regular script, with pinyin on top; click it to replay the stroke order stroke by stroke. One HTML file, no server, no network, nothing leaves the machine.
+**[hanzi-big](https://github.com/python012/hanzi-big)** ![release](https://img.shields.io/github/v/release/python012/hanzi-big)
+
+An offline Chinese character card for kids: type a character and it fills the screen in regular script, with pinyin on top; click it to replay the stroke order stroke by stroke. One HTML file, no server, no network, nothing leaves the machine.
+
+给孩子的离线汉字卡片：输入汉字，满屏楷体显示，上方标注拼音，点一下就能按笔顺逐笔演示。单个 HTML 文件，双击打开，不联网。
 
 [Download](https://github.com/python012/hanzi-big/releases) · [Source](https://github.com/python012/hanzi-big)
 
