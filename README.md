@@ -12,6 +12,12 @@ Hi! I'm a passionate Test Automation Engineer based in Wuhan, China. I specializ
 
 [![skills.sh](https://skills.sh/b/python012/html-artifact-builder)](https://skills.sh/python012/html-artifact-builder) · [Live demo](https://python012.github.io/html-artifact-builder/samples/sample-doc-en.html) · [中文示例](https://python012.github.io/html-artifact-builder/samples/sample-doc.html) · [Install](https://github.com/python012/html-artifact-builder#install)
 
+### Web Tools
+
+**[hanzi-big](https://github.com/python012/hanzi-big)** — an offline Chinese character card for kids: type a character and it fills the screen in regular script, with pinyin on top; click it to replay the stroke order stroke by stroke. One HTML file, no server, no network, nothing leaves the machine.
+
+[Download](https://github.com/python012/hanzi-big/releases) · [Source](https://github.com/python012/hanzi-big)
+
 ### Published Packages
 
 | Package | Description | Downloads |
@@ -25,6 +31,7 @@ Hi! I'm a passionate Test Automation Engineer based in Wuhan, China. I specializ
 | Repository | Description |
 |------------|-------------|
 | [html-artifact-builder](https://github.com/python012/html-artifact-builder) | Agent skill that generates single-file, self-contained HTML with React + shadcn/ui |
+| [hanzi-big](https://github.com/python012/hanzi-big) | Offline Chinese character viewer with pinyin and stroke-order animation, shipped as a single HTML file |
 | [learn-agent-from-claude-code](https://github.com/python012/learn-agent-from-claude-code) | Learn AI Agent development from Claude Code source |
 | [Minimal-RAG](https://github.com/python012/Minimal-RAG) | Minimal RAG application (Python) |
 | [Minimal-RAG-for-PDF](https://github.com/python012/Minimal-RAG-for-PDF) | RAG for PDF processing |
