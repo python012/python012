@@ -30,21 +30,7 @@ An offline Chinese character card for kids: type a character and it fills the sc
 | [PyVisionAuto](https://pypi.org/project/pyvisionauto/) ![PyPI version](https://img.shields.io/pypi/v/pyvisionauto) | Cross-platform desktop automation toolkit with visual image matching, mouse/keyboard control, and screen recording | [![PyPI downloads](https://img.shields.io/pypi/dm/pyvisionauto)](https://pypi.org/project/pyvisionauto/) |
 | [vision-auto](https://www.npmjs.com/package/vision-auto) ![NPM version](https://img.shields.io/npm/v/vision-auto)       | Desktop automation toolkit for image-based UI interaction and input control                                        | [![NPM downloads](https://img.shields.io/npm/dw/vision-auto)](https://www.npmjs.com/package/vision-auto)     |
 
-### GitHub Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [html-artifact-builder](https://github.com/python012/html-artifact-builder) | Agent skill that generates single-file, self-contained HTML with React + shadcn/ui |
-| [hanzi-big](https://github.com/python012/hanzi-big) | Offline Chinese character viewer with pinyin and stroke-order animation, shipped as a single HTML file |
-| [learn-agent-from-claude-code](https://github.com/python012/learn-agent-from-claude-code) | Learn AI Agent development from Claude Code source |
-| [Minimal-RAG](https://github.com/python012/Minimal-RAG) | Minimal RAG application (Python) |
-| [Minimal-RAG-for-PDF](https://github.com/python012/Minimal-RAG-for-PDF) | RAG for PDF processing |
-| [Simple-MCP](https://github.com/python012/Simple-MCP) | Model Context Protocol implementation |
-| [Sqlitechecker](https://github.com/python012/Sqlitechecker) | SQLite database GUI analyzer |
-| [Screenshot-tool](https://github.com/python012/Screenshot-tool) | Screenshot refinement tool (Java) |
-
 ---
-
 
 ## Tech Stack
 
