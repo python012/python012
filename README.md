@@ -50,6 +50,7 @@ An offline Chinese character card for kids: type a character and it fills the sc
 ![Claude](https://img.shields.io/badge/Claude-CC99B3?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-333333?style=for-the-badge&logo=code&logoColor=white)
 ![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
