@@ -49,6 +49,7 @@ An offline Chinese character card for kids: type a character and it fills the sc
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC99B3?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-333333?style=for-the-badge&logo=code&logoColor=white)
+![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
 ---
 
